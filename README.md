@@ -11,5 +11,7 @@ You can use sendingFF to make CAN bus, and I recommend to change ID or data in c
 
 I used one mbed and two MCP2515 to receive CAN bus data, using receiveFF_Multi_Slave
 
+Maybe you need to make program using LPC1768 in mbed.org online compiler, and then load this library or
+import library about MCP2515 in mbed ide with small editting.
 
 
