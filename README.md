@@ -1,4 +1,4 @@
-# MCP2515_Multi_Slave
+# MCP2515_Multi_Slave using LPC1768
 It is the test project to receive CAN protocol data generated from motor controller KLS6022H,
 4 controller's data at once.
 
